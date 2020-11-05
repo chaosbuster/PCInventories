@@ -41,16 +41,16 @@ Instructions Reference:  https://helpdeskgeek.com/how-to/generate-a-list-of-inst
 ### Research
 
     1. To run a script in PowerShell:
-        ◦ [GitHub](https://ss64.com/ps/syntax-run.html)
+        [GitHub](https://ss64.com/ps/syntax-run.html)
     2. Script example across multiple PCs:
-        ◦ [GitHub](https://blogs.technet.microsoft.com/heyscriptingguy/2011/11/13/use-powershell-to-quickly-find-installed-software/)
+        [GitHub](https://blogs.technet.microsoft.com/heyscriptingguy/2011/11/13/use-powershell-to-quickly-find-installed-software/)
     3. Another Script option
-        ◦ By Arivan: [GitHub](https://stackoverflow.com/questions/429738/detecting-installed-programs-via-registry)
+        By Arivan: [GitHub](https://stackoverflow.com/questions/429738/detecting-installed-programs-via-registry)
     4. Upgrading PowerShell
-        ◦ [GitHub](https://docs.microsoft.com/en-us/powershell/wmf/5.1/release-notes)
+        [GitHub](https://docs.microsoft.com/en-us/powershell/wmf/5.1/release-notes)
     5. Getting the version of PowerShell
-        ◦ $PSVersionTable.PSVersion
+        '<$PSVersionTable.PSVersion>'
     6. Gathering system properties in new PowerShell version AND formatting output
-        ◦ [GitHub](https://redmondmag.com/articles/2015/01/23/powershell-to-retrieve-info.aspx?m=1)
+        [GitHub](https://redmondmag.com/articles/2015/01/23/powershell-to-retrieve-info.aspx?m=1)
         
         
